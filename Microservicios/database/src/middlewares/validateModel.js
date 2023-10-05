@@ -1,0 +1,1 @@
+const ClientError = require("../utils/errors");
